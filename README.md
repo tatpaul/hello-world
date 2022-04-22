@@ -1,2 +1,3 @@
-# hello-world
-my first repository
+## hello-world
+# *my first repository*
+I'm **potato**
